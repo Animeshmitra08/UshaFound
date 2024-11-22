@@ -8,7 +8,7 @@ First clone this repo as
 
 ```bash
   git clone https://github.com/Animeshmitra08/UshaFound.git  
-  cd my-project
+  cd UshaFound
 ```
 
 Install node packages with npm
